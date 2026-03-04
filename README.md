@@ -1,11 +1,11 @@
-# SmokePace — プライバシーポリシー
+# SmokePace — 法的情報
 
-SmokePace アプリのプライバシーポリシーを公開するためのリポジトリです。
+SmokePace アプリのプライバシーポリシーおよび利用規約を公開するためのリポジトリです。
 
 ## 公開ページ
 
-- **トップ**: https://kymkd.github.io/smokepace-privacy/
-- **プライバシーポリシー**: https://kymkd.github.io/smokepace-privacy/privacy-policy.html
+- **プライバシーポリシー**: https://hottategoya.github.io/smokepace-privacy/privacy-policy.html
+- **利用規約**: https://hottategoya.github.io/smokepace-privacy/terms.html
 
 ## SmokePace について
 
